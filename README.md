@@ -22,3 +22,7 @@ This is an [awesome](https://github.com/sindresorhus/awesome/blob/master/awesome
 	- [CGMiner](https://github.com/ckolivas/cgminer)
 	- [BFGMiner](https://github.com/luke-jr/bfgminer)
 
+## Ethereum
+- Mobile Ethereum Wallet
+	- [Status](https://status.im)
+	- [Toshi](https://www.toshi.org)
